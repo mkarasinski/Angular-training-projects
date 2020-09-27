@@ -18,4 +18,7 @@ https://pages-lilac.vercel.app/
 Components app:
 https://components-sooty.vercel.app/
 
+Wikisearch app:
+https://wikisearch-eight.vercel.app/
+
 work in progress...
